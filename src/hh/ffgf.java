@@ -7,5 +7,11 @@ public class ffgf {
         System.out.println("hello 3");
         System.out.println("cmd");
 
+        System.out.println("gunun sonu guzel");
+
+
+
+
+
     }
 }
